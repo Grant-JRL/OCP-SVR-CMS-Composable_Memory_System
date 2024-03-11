@@ -1,7 +1,7 @@
-#Committing new content, reviewing, and browsing
+# Committing new content, reviewing, and browsing
 If the review window is active, all content is likely in the proposed folder. If you're just browsing prior review windows, all selected works are in 'selected' and will also likely have additional content beyond the reviews (e.g. additional commentary from the original authors, links to recordings, etc.) but all works considered for the review window will be in the 'proposed' directory. 
 
-##Instructions for committing new content
+## Instructions for committing new content
 If this is an active review window, and you are committing a review of a proposed paper, please do the following. 
  - Fetch and merge latest, and if this is a local fork, please make sure you've fetched upstream to merge. 
  - Create a new branch 
@@ -13,7 +13,7 @@ If this is an active review window, and you are committing a review of a propose
  - Select reviewers for your merge request
  - Loop as needed until merge request accepted
 
-##Instructions for committing reviews
+## Instructions for committing reviews
 
 Make sure you've fetched latest before adding new content and if this is a local fork that your fork is also synced, please and thank you. 
 
